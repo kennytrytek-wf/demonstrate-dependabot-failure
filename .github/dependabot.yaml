@@ -2,7 +2,7 @@ version: 2
 updates:
 - package-ecosystem: pip
   insecure-external-code-execution: allow
-  directory: "/"
+  directory: "/a-python-project"
   schedule:
     interval: weekly
     day: sunday
